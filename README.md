@@ -1,1 +1,2 @@
-# My first rep
+# My first repo
+this is some text
